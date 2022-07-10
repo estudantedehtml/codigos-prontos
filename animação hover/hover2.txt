@@ -1,0 +1,24 @@
+HTML//////////////////
+
+
+<div class="width">
+<img src="digite aqui o caminho de arquivo">
+</div>
+
+
+CSS///////////////////
+
+
+.width {
+*/configurações/* 
+width: personalizar;
+height: Auto ou personalizado;
+}
+
+.width:hover {
+width: personalizar;
+heigth: personalizar;
+
+
+
+

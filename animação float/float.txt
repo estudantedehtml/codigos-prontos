@@ -1,0 +1,27 @@
+HTML/////////////
+
+<div class="float">
+   <h1>Exemplo</h1>
+</div>
+
+
+CSS/////////////
+
+
+.float {
+    position: relative;
+    top: 0px;
+    animation: 2s float ease-in-out infinite;
+}
+
+@keyframes float {
+    0%{
+        top: 0px;
+    }
+    50% {
+        top: 50px;
+    }
+    100% {
+        top: 1px;
+    }
+}

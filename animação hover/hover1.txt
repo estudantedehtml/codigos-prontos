@@ -1,0 +1,22 @@
+HTML/////////////
+
+
+<div class="brightness">
+teste
+</div>
+
+
+CSS/////////////
+
+
+.brightness {
+*/configurações/*
+filter: brightness(personalizar de 0 a 10);
+transition-duration: .5s:
+}
+
+
+.brightness:hover {
+filter: brightness(personalizar de 0 a 10);
+}
+

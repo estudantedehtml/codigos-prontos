@@ -1,0 +1,40 @@
+HTML/////////////
+
+
+<div class="container">
+    <div id="card1"></div>
+    <div id="card2"></div>
+</div>
+
+
+CSS//////////////
+
+
+#card1 {
+    background-color: black;
+    background-size : cover;
+    width: personalizar;
+    height: personalizar;
+    transition-duration: .5s;
+    transform: perspective(personalizar) rotateY(personalizar);
+}
+    
+    
+#card1:hover {
+    transform: rotateY(personalizar);
+}
+
+
+#card2 {
+    background-color: black;
+    background-size : cover;
+    width: personalizar;
+    height: personalizar;
+    transition-duration: .5s;
+    transform: perspective(personalizar) rotateY(personalizar);
+}
+    
+    
+#card2:hover {
+transform: rotateY(personalizar);
+}
